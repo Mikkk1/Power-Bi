@@ -8,3 +8,5 @@
 * Compare the performance of each sales team in different regions.
 * Any relation between the prices of a product box and their sale?
 * Create a chart/graph to visualize sales trend over time.
+
+### _Create this report Dashboard perform analysis and write your observations according to your understanding._
